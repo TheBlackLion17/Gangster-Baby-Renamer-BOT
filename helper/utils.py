@@ -1,7 +1,6 @@
 import math, time
 from datetime import datetime
 from pytz import timezone
-from config import Config, Txt 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
